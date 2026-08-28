@@ -1,5 +1,5 @@
 
-# 🔬 MAPbI₃ XRD Analysis
+# 🔬 MAPbI3_XRD_TMM_Analysis
 
 Structural characterization of Methylammonium Lead Iodide (MAPbI₃) perovskite using X-ray diffraction (XRD) analysis. This project demonstrates how Python can be used to extract structural parameters from diffraction peak data using **Bragg's Law** and the **Scherrer Equation**. The results are visualized using Python and Matplotlib.
 
