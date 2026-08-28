@@ -158,10 +158,9 @@ jupyter notebook TMM/MAPbI3_TMM_Optical_Analysis.ipynb
 Computes reflectance, transmittance, and absorptance for the Air/MAPbI₃/glass stack and compares the simulated absorptance with experimental EQE data.
 
 
-```
+
 
 ---
-
 ## Future Improvements
 
 * Read XRD peak data directly from CSV files
