@@ -106,7 +106,7 @@ The calculated d-spacing values agree well with reported values for the characte
 
 The XRD analysis showed the crystal structure of MAPbI₃, but not how it interacts with light — that is where this part comes in. Using experimentally reported refractive index and extinction coefficient (n, k) data from Phillips et al. (2015), an Air/MAPbI₃/Glass stack was modeled with the Transfer Matrix Method (TMM) to calculate how reflectance, transmittance, and absorptance vary with wavelength, film thickness, and angle of incidence. The simulated absorptance was then compared with experimental EQE data from Lin et al. (2015), showing a similar spectral trend and absorption edge near the MAPbI₃ bandgap.
 
-See the MAPbI3_TMM_Optical_Analysis.ipynb for the full analysis and 520nm_dataset.csv for the dataset used.
+See [MAPbI3_TMM_Optical_Analysis.ipynb](MAPbI3_TMM_Optical_Analysis.ipynb)for the full analysis and [520nm_dataset.csv](520nm_dataset.csv) for the dataset used.
 
 ## Repository Structure
 
