@@ -9,10 +9,11 @@ This project presents a Python-based characterization and optical analysis of me
 
 
 ---
+## 1. MAPbI3 XRD Analysis
 
-## Theory
+### Theory
 
-### Bragg's Law
+#### Bragg's Law
 
 **d = λ / (2 sin θ)**
 
@@ -22,7 +23,7 @@ This project presents a Python-based characterization and optical analysis of me
 | **λ**  | X-ray wavelength    |
 | **θ**  | Diffraction angle   |
 
-### Scherrer Equation
+#### Scherrer Equation
 **D = (Kλ) / (β cos θ)**
 
 
