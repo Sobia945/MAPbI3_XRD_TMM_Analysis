@@ -173,6 +173,11 @@ Computes reflectance, transmittance, and absorptance for the Air/MAPbI₃/glass 
 * Support for experimental XRD datasets
 * Interactive plotting using Plotly
 
+**TMM / Optical Analysis**
+- Incorporate wavelength-dependent (dispersive) refractive index for the glass substrate instead of a constant value
+- Extend the model to multilayer stacks (e.g., hole-transport and electron-transport layers)
+- Fit TMM-simulated optical spectra to experimental data to extract effective optical parameters
+- Interactive plotting using Plotly for reflectance (R), transmittance (T), and absorptance (A) as functions of wavelength, thickness, and incident angle
 ---
 
 ## License
