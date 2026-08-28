@@ -9,6 +9,7 @@ This project was extended from structural (XRD) characterization to optical anal
 Using experimentally reported refractive index (n, k) data (Phillips et al., 2015), an air/MAPbI₃/glass thin-film stack was modeled and the simulated optical response was compared against published EQE data.
 
 See the [`Optical_TMM/`](./Optical_TMM) folder for the full analysis, notebook, and dataset.
+
 ---
 
 ## Theory
