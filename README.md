@@ -125,36 +125,39 @@ MAPbI3_XRD_TMM_Analysis/
 
 ---
 
+
 ## Installation
 
-Install the required package:
-
+Install the required packages:
 ```bash
-pip install matplotlib
+pip install -r requirements.txt
 ```
-
----
 
 ## Usage
 
 ### Run the structural analysis
-
 ```bash
-python XRD_Analysis.py
+python XRD/XRD_Analysis.py
 ```
-
 Outputs the calculated interplanar spacing and crystallite size for each diffraction peak.
 
 ### Generate the visualization
-
 ```bash
-python XRD_Plot.py
+python XRD/XRD_Plot.py
+```
+Creates and saves the output figure as:
+```bash
+XRD/xrd_plot.png
 ```
 
-Creates and saves the output figure as:
+### Run the optical analysis
+Open the notebook in Jupyter Notebook or JupyterLab:
+```bash
+jupyter notebook TMM/MAPbI3_TMM_Optical_Analysis.ipynb
+```
+Computes reflectance, transmittance, and absorptance for the Air/MAPbI₃/glass stack and compares the simulated absorptance with experimental EQE data.
 
-```text
-xrd_plot.png
+
 ```
 
 ---
