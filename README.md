@@ -1,6 +1,8 @@
 
 # 🔬 MAPbI3_XRD_TMM_Analysis
 
+MAPbI₃ is a widely studied hybrid perovskite for solar-cell applications, with strong visible-light absorption and a bandgap of ~1.6 eV, making its structural and optical properties important for photovoltaic research.
+
 
 This project presents a Python-based characterization and optical analysis of methylammonium lead iodide (MAPbI₃) perovskite. It combines two complementary approaches:
 
